@@ -1,6 +1,6 @@
 {
-  "name": "starwars-names",
-  "version": "1.0.0",
+  "name": "@chimpiq/starwars-names",
+  "version": "1.1.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
   "scripts": {
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/daon/starwars-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
